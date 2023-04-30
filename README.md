@@ -16,9 +16,9 @@ x"/>
 </h1> -->
 
  
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
-</div>
+</div> -->
 
 ---
 
@@ -35,6 +35,12 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :zap: In my free time I try to learn about new technologies.
 
 - :mailbox: How to find me:
+
+
+    
+    
+    
+    
 <div dir="auto"> 
  <a href="https://www.linkedin.com/in/alan-negalho-992ba624b/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>  
 <a href="mailto: alandevads@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -68,22 +74,28 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNegalho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
- 
+
+[![AlanNegalho Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlanNegalho&custom_title=AlanNegalho's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- ![Snake animation](https://github.com/AlanNegalho/AlanNegalho/blob/output/github-contribution-grid-snake.svg) -->  
+ <p align="center">
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
+
+<img src="assests/borderseperator.gif">
+  <h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alan-negalho-992ba624b/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+
+  
+  <a href="mailto: alandevads@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+  </a> &nbsp;&nbsp;
 
 
-[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlanNegalho&custom_title=AlanNegalho's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-<!-- ![Snake animation](https://github.com/AlanNegalho/AlanNegalho/blob/output/github-contribution-grid-snake.svg) -->
- 
-
-
-
-
----
-
-</h1>
+</p> 
 
 
 
