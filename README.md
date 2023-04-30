@@ -75,7 +75,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNegalho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
 
-[![AlanNegalho Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlanNegalho&custom_title=AlanNegalho's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AlanNegalho Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlanNegalho&custom_title=AlanNegalho%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ![Snake animation](https://github.com/AlanNegalho/AlanNegalho/blob/output/github-contribution-grid-snake.svg) -->  
  <p align="center">
