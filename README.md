@@ -1,16 +1,21 @@
 <h1 align="center">
-  <div id="badges" align="center">
+<div id="badges" align="center">
 <!--   <a href="https://www.linkedin.com/in/alan-negalho-992ba624b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  -->
-    
-  </div>
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=00FFFF&center=true&vCenter=true&width=990&height=50&lines=Hey%2C+I'm+Alan+Negalho+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Alan Negalho Welcome to my Profile! animated typed out">
+</div>
+  
+  ![borderseperator](https://user-images.githubusercontent.com/107214420/235377264-8f099f20-3ed5-411c-858a-1ebcc203dd45.gif)
+
+<!--    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30p![Uploading borderseperator.gif…]()
+x"/>
   Hey there
   my name is Alan Negalho
-</h1>
+</h1> -->
 
+ 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
 </div>
@@ -49,22 +54,32 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 </div>
 
 ---
-<h1 align="center">
-:fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanNegalho&theme=dark&background=000000)](https://git.io/streak-stats)
+:fire: My Stats :
+<h1 align="center">
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=AlanNegalho&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+  
+ <a href="https://www.AlanNegalho.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=AlanNegalho&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNegalho&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+  
+  
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlanNegalho&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNegalho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-
-
-![Snake animation](https://github.com/AlanNegalho/AlanNegalho/blob/output/github-contribution-grid-snake.svg)
+  
  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlanNegalho&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlanNegalho&custom_title=AlanNegalho's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<!-- ![Snake animation](https://github.com/AlanNegalho/AlanNegalho/blob/output/github-contribution-grid-snake.svg) -->
+ 
+
+
+
 
 ---
 
