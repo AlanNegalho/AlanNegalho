@@ -55,7 +55,10 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry" alt="Raspberry" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry" alt="Raspberry" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="DART" alt="DART" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="FLUTTER" alt="FLUTTER" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
  
 </div>
 
@@ -75,7 +78,8 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNegalho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
 
-[![AlanNegalho Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlanNegalho&custom_title=AlanNegalho%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AlanNegalho Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanNegalho&custom_title=AlanNegalho%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- ![Snake animation](https://github.com/AlanNegalho/AlanNegalho/blob/output/github-contribution-grid-snake.svg) -->  
  <p align="center">
