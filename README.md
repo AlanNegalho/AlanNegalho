@@ -27,7 +27,7 @@
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
-- :telescope: Graduating in Analyst and Developer Systems
+- :telescope: Graduate in Analyst and Developer Systems
 
 - :seedling: Exploring the technology and applications.
 
