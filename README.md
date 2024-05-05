@@ -109,6 +109,16 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="48" />
+      </a>
+      <br>Js
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="48" height="48" alt="Flutter" />
+      <br>Angular
+    </td>
        <!--       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
