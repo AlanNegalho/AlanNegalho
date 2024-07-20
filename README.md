@@ -174,7 +174,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 :fire: My Stats :
 <h1 align="center">
   
- [![trophy](https://github-profile-trophy.vercel.app/?username=AlanNegalho&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AlanNegalho&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
   
  <a href="https://www.AlanNegalho.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=AlanNegalho&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNegalho&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
   
