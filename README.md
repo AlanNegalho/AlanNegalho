@@ -31,7 +31,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :seedling: Exploring the technology and applications.
 
-- :zap: In my free time I try to learn about new technologies.
+- :zap: In my free time I seek to learn about new technologies.
 
 
 <!--
